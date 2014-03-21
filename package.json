@@ -1,7 +1,7 @@
 {
   "name": "section-html",
   "description": "Section plugin for generating html by processing underscore templates.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "homepage": "https://github.com/iclanzan/section-html",
   "author": {
     "name": "Sorin Iclanzan",
