@@ -1,7 +1,7 @@
 {
   "name": "section-html",
   "description": "Section plugin for generating html by processing underscore templates.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "homepage": "https://github.com/iclanzan/section-html",
   "author": {
     "name": "Sorin Iclanzan",
@@ -29,7 +29,7 @@
     "test": "node test"
   },
   "dependencies": {
-    "cheerio": "~0.13"
+    "cheerio": "MatthewMueller/cheerio"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.7.0",
